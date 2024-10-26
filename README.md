@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** specializing in the **MERN 
 - **Features**: Client and admin dashboards, real-time chat, case management, and a responsive interface
 - **Collaboration**: Worked closely with a dedicated team and the client to bring this comprehensive legal service platform to life.
 
-### 💬 Chatbot for React - [@aqib_nawab/chatbot-react](https://www.npmjs.com/package/@aqib_nawab/chatbot-react)
+### 💬 Chatbot for React - [@quickstart-ai/chatbot](https://www.npmjs.com/package/@quickstart-ai/chatbot)
 - **Role**: Author and Maintainer
 - **Tech Stack**: React, TypeScript, styled-components
 - **Details**: A customizable and user-friendly chatbot component leveraging **Google Generative AI** for seamless integration in any React application. Designed with professional interactions in mind, it provides users a conversational interface with flexibility to personalize responses.
@@ -43,7 +43,6 @@ Welcome to my GitHub! I'm a **Full Stack Developer** specializing in the **MERN 
 
 ## 🌟 Open Source Contributions
 
-- **NeetCode’s Blind 75**: Solved 180+ problems, gaining expertise in algorithms and data structures.
 - **Contribution Focus**: Primarily contribute to **product-based projects** like **Calendly** and **Notion** alternatives, focusing on user-friendly UI and functionality.
 - **Upcoming Goals**: Continuing to contribute to high-impact open-source repositories, especially those with real-world applications in business productivity.
 
