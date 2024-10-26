@@ -55,6 +55,9 @@ Welcome to my GitHub! I'm a **Full Stack Developer** specializing in the **MERN 
 
 ---
 
+## Profile Stats
+[![Aqib Nawab profile views](https://u8views.com/api/v1/github/profiles/115807186/views/day-week-month-total-count.svg)](https://u8views.com/github/AQIB-NAWAB)
+
 ## 🌐 Let’s Connect!
 
 I'm open to new projects, collaborations, and exciting opportunities in the tech world. Let's connect!
