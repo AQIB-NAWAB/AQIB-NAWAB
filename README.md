@@ -54,6 +54,10 @@ Welcome to my GitHub! I'm a **Full Stack Developer** specializing in the **MERN 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AQIB-NAWAB&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
+---
+[![AQIB-NAWAB's GitHub | Languages Over Time](https://stats.quira.sh/AQIB-NAWAB/languages-over-time?theme=light)](https://quira.sh?utm_source=widgets&utm_campaign=AQIB-NAWAB)
+---
+
 
 ## Profile Stats
 [![Aqib Nawab profile views](https://u8views.com/api/v1/github/profiles/115807186/views/day-week-month-total-count.svg)](https://u8views.com/github/AQIB-NAWAB)
