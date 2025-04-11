@@ -1,4 +1,3 @@
-https://landscape.json-schema.org/?item=tools--tools--json-schema-tooling-ecosystem[image:https://img.shields.io/badge/JSON Schema%20Landscape-5699C6[JSON Schema LANDSCAPE]]
 
 # 👋 Hi, I'm Aqib Nawab
 
