@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aqib Nawab
 
-Welcome to my GitHub! I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passion for creating scalable web applications and actively contributing to open-source projects. Currently a **BSIT student** and an active member of **GDSC** and **UE IT Society**, I'm dedicated to continuous learning and impact through tech.
+Hi, I'm M.Aqib having more than 2 years of experince in web development. I also actively contributing to open source and eganged wth communities. I was CO lead in GDSC'24. I'm also mentor at Dev Weekends. I love helping people and collaborate with others to making things that impact in others life. 
 
 ---
 
