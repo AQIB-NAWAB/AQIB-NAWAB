@@ -18,7 +18,7 @@ Hi, I'm M.Aqib having more than 2 years of experince in web development. I also 
 I'm open to new projects, collaborations, and exciting opportunities in the tech world. Let's connect!
 
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github)](https://github.com/AQIB-NAWAB)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aqib-nawab-66723b252/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-aqib-nawab/)
 
 
 Thank you for stopping by! If you're looking to build innovative web solutions or explore dynamic open-source projects, I’d love to collaborate. 🚀
