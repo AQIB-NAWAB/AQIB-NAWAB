@@ -1,5 +1,4 @@
 [![JSON Schema Landscape](https://img.shields.io/badge/JSON Schema%20Landscape-5699C6)](https://landscape.json-schema.org/?item=tools--tools--json-schema-tooling-ecosystem)
-
 # 👋 Hi, I'm Aqib Nawab
 
 Welcome to my GitHub! I'm a **Full Stack Developer** specializing in the **MERN stack**, with a passion for creating scalable web applications and actively contributing to open-source projects. Currently a **BSIT student** and an active member of **GDSC** and **UE IT Society**, I'm dedicated to continuous learning and impact through tech.
