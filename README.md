@@ -1,3 +1,4 @@
+[![JSON Schema Landscape](https://img.shields.io/badge/JSON Schema%20Landscape-5699C6)](https://landscape.json-schema.org/?item=sponsors--bronze--vps-server)
 
 # 👋 Hi, I'm Aqib Nawab
 
