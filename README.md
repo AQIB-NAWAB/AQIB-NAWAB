@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Muhammad Aqib
+# 👋 Hi, I'm AQIB NAWAB
 
 Hi, I'm M.Aqib having more than 2 years of experince in web development. I also actively contributing to open source and eganged wth communities.I'm also mentor at Dev Weekends. I love helping people and collaborate with others to making things that impact in others life. 
 
