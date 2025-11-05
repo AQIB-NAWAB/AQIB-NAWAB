@@ -1,8 +1,8 @@
-# 👋 Hi, I'm AQIB NAWAB
+#  Hi, I'm AQIB NAWAB
 
 Hi, I'm Aqib having more than 2 years of experince in web development.I am working as Backend Engineer at **RideNear**. I also actively contributing to open source like **JSON-SCEHMA** (10+ PR) and **Expensify** (1PR).I am highly active in community which leads me trainer at Dev Weekends. I love helping people and collaborate with others to making things that impact in others life. 
 
-## 🔥 Key Skills & Technologies
+##  Key Skills & Technologies
 
 - **Frontend Development**: React, Next.js, TypeScript, MUI , Vue
 - **Backend Development**: Node.js, Nest , Express, REST APIs , Socket , Supabase , Firebase , Appwrite 
@@ -13,7 +13,7 @@ Hi, I'm Aqib having more than 2 years of experince in web development.I am worki
 ## Profile Stats
 [![Aqib Nawab profile views](https://u8views.com/api/v1/github/profiles/115807186/views/day-week-month-total-count.svg)](https://u8views.com/github/AQIB-NAWAB)
 
-## 🌐 Let’s Connect!
+##  Let’s Connect!
 
 I'm open to new projects, collaborations, and exciting opportunities in the tech world. Let's connect!
 
