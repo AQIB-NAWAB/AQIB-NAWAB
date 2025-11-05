@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AQIB NAWAB
 
-Hi, I'm Aqib having more than 2 years of experince in web development.I am working as Backend Engineer at RideNear. I also actively contributing to open source like JSON-SCEHMA (10+ PR) and Expensify(1PR).I am highly active in community which leads me trainer at Dev Weekends. I love helping people and collaborate with others to making things that impact in others life. 
+Hi, I'm Aqib having more than 2 years of experince in web development.I am working as Backend Engineer at **RideNear**. I also actively contributing to open source like **JSON-SCEHMA** (10+ PR) and **Expensify** (1PR).I am highly active in community which leads me trainer at Dev Weekends. I love helping people and collaborate with others to making things that impact in others life. 
 
 ## 🔥 Key Skills & Technologies
 
