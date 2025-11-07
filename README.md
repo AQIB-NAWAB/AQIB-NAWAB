@@ -8,6 +8,7 @@ Hi, I'm Aqib having more than 2 years of experince in web development.I am worki
 - **Backend Development**: Node.js, Nest , Express, REST APIs , Socket , Supabase , Firebase , Appwrite 
 - **Database**: MongoDB, MYSQL, PostgressSQL 
 - **DevOps & Tools**: AWS , CD/CI, Docker,K8s , Git
+- **GEN AI**: LangChain , LangGraph , LangSmith , AI Agents , OpenRouter
 - **Blockhain/Bitcoin Development**: Learning but have some experince 
 
 ## Profile Stats
