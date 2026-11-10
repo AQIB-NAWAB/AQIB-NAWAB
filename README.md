@@ -22,7 +22,8 @@ An open-source voice-agent platform with SIP and LiveKit, streaming STT, LLM, an
 **[voice-eval-toolkit](https://github.com/AQIB-NAWAB/voice-eval-toolkit)**  
 A toolkit for load and barge-in testing of voice agents. [Landing page](https://voice-eval-toolkit.vercel.app).
 
-<!-- TODO: add telephony-wer-bench once https://github.com/AQIB-NAWAB/telephony-wer-bench is public. It measures speech-to-text accuracy under phone-line conditions. -->
+**[telephony-wer-bench](https://github.com/AQIB-NAWAB/telephony-wer-bench)**  
+Measures speech-to-text accuracy and latency under phone-line conditions: 8 kHz, G.711, packet loss and noise. [Landing page](https://telephony-wer-bench.vercel.app).
 
 **Dental Striver**  
 Technical lead for the LMS above. The voice agent work brought latency down from about 2 seconds to 800 ms, and word error rate from 15% to 7%.
