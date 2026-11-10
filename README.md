@@ -31,7 +31,7 @@ Technical lead for the LMS above. The voice agent work brought latency down from
 Backend engineering on their ground transport platform, since July 2025.
 
 **P&L Trading Journal** (January 2024 to February 2026)  
-Lead developer. React Native, Kotlin, Node.js, Redis, BullMQ, and SnapTrade sync for 20+ brokerages. 10,000+ downloads. This is past work.
+Lead developer. React Native, Kotlin, Node.js, Redis, BullMQ, and SnapTrade sync for 20+ brokerages. 50,000+ downloads on the Play Store. This is past work.
 
 ## Open source
 
