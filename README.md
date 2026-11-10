@@ -43,7 +43,13 @@ Lead developer. React Native, Kotlin, Node.js, Redis, BullMQ, and SnapTrade sync
 
 ## Tech I use
 
-TypeScript, JavaScript, Node.js, NestJS, React, Next.js, Python, PostgreSQL, Redis, Kafka, Docker, Kubernetes, AWS, REST, GraphQL, LangChain, LangGraph, MCP, LiveKit, and WebRTC/SIP.
+**Backend and web:** TypeScript, JavaScript, Node.js, NestJS, Python, React, Next.js, REST, and GraphQL.
+
+**Data and infrastructure:** PostgreSQL, Redis, Kafka, Docker, Kubernetes, and AWS.
+
+**AI and agents:** LangChain, LangGraph, MCP, RAG, and tool calling.
+
+**Voice AI and calling:** LiveKit (rooms, agents, and SIP), Twilio and Telnyx for phone numbers and SIP trunking, Deepgram and Whisper for speech-to-text, ElevenLabs and Cartesia for text-to-speech, Groq for fast LLM responses, and WebRTC. I build streaming STT, LLM, and TTS pipelines with barge-in, turn detection, and latency testing.
 
 ## How to reach me
 
