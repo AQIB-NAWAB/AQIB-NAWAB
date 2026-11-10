@@ -1,103 +1,50 @@
-# Hi, I'm Muhammad Aqib Nawab
+# Aqib Nawab
 
-**Software Engineer · Full Stack · AI**
+I'm a backend-leaning full-stack engineer in Lahore, Pakistan. I spend most of my time on voice AI, AI agents, backend and distributed systems, and real-time communication.
 
-I build production web and mobile apps with **TypeScript, Node.js, NestJS, and Next.js** — from AI agents and RAG pipelines to products with **10K+ downloads** and **6K+ users**.
+About 3.5 years of experience. BSIT graduate, University of Education, Lahore.
 
-Currently at **[RideNear](https://ridenear.com)** (ride-hailing) building scalable B2B/B2C platforms, RBAC, and MCP-connected AI features. I also ship open source to projects used by **millions** — including **Expensify (15M+ users)** and **Google Summer of Code**.
+## What I'm working on now
 
----
+At [RideNear](https://ridenear.com) I work on the backend of a corporate ground transport platform. I've been there since July 2025.
 
-## What I've Done
+I'm a maintainer on [Edorax](https://github.com/devweekends/Edorax), a project-based learning platform, where I review and merge pull requests.
 
-- **P&L App** — Led a React Native trading journal from zero to **10K+ downloads** and **6K+ users**, with **20+ brokerages** integrated at **99.8% uptime**
-- **RideNear** — Backend Engineer building ride-hailing infra, admin dashboards, RBAC, and AI agents in production
-- **Expensify** — Fixed critical production bugs on a **15M+ user** app · **$500 bounty**
-- **Google Summer of Code** — Built **B0Bot** (RSS ingestion + BullMQ newsletters) · **13+ merged PRs** to JSON-Schema
-- **QuickStart AI** — Embeddable RAG chatbot on npm · **1,500+ weekly downloads**
-- **Dev Weekends** — Trainer & mentor in a **20K+** engineering community
+I'm also the technical lead on Dental Striver, a dental LMS used by about 200 students per batch. That work includes an AI voice assistant that answers questions about lectures, quizzes, and schedules, and can hand off to an instructor.
 
----
+In the open, I'm building [QuickStart AI](https://github.com/AQIB-NAWAB/Quickstart-AI), an open-source voice-agent platform. It is still in development.
 
-## Tech Stack
+## Selected work
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+**[QuickStart AI](https://github.com/AQIB-NAWAB/Quickstart-AI)**  
+An open-source voice-agent platform with SIP and LiveKit, streaming STT, LLM, and TTS, interruption handling, and turn detection. It started as a chatbot SaaS with RAG. The platform is still in development, not a production deployment.
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
+**[voice-eval-toolkit](https://github.com/AQIB-NAWAB/voice-eval-toolkit)**  
+A toolkit for load and barge-in testing of voice agents. [Landing page](https://voice-eval-toolkit.vercel.app).
 
-**AI / ML**  
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-LangGraph · RAG · Pinecone · OpenAI · MCP · AI Agents
+<!-- TODO: add telephony-wer-bench once https://github.com/AQIB-NAWAB/telephony-wer-bench is public. It measures speech-to-text accuracy under phone-line conditions. -->
 
-**DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-CI/CD · GitHub Actions
+**Dental Striver**  
+Technical lead for the LMS above. The voice agent work brought latency down from about 2 seconds to 800 ms, and word error rate from 15% to 7%.
 
----
+**[RideNear](https://ridenear.com)**  
+Backend engineering on their ground transport platform, since July 2025.
 
-## Open Source
+**P&L Trading Journal** (January 2024 to February 2026)  
+Lead developer. React Native, Kotlin, Node.js, Redis, BullMQ, and SnapTrade sync for 20+ brokerages. 10,000+ downloads. This is past work.
 
-| Project | Contribution |
-|---------|--------------|
-| [Expensify](https://github.com/Expensify/App) | Production bug fixes · **$500 bounty** |
-| [JSON-Schema](https://github.com/ajv-validator/ajv) (GSoC) | **13+ merged PRs** · async validation, localized errors |
-| [B0Bot](https://github.com) (GSoC C2SI) | News-based AI agent · RSS ingestion · BullMQ newsletters |
+## Open source
 
----
+- **[B0Bot](https://github.com/c2siorg/b0bot)** with C2SI, as a [Google Summer of Code 2026](https://summerofcode.withgoogle.com/programs/2026/projects/7sf7V0bk) contributor. I helped rebuild this cybersecurity news AI bot with an agentic architecture (LangGraph planner and executor, RSS ingestion, Kafka and Debezium, Redis). [Final report](https://github.com/c2siorg/GSoC/pull/33).
+- **[Expensify/App](https://github.com/Expensify/App).** Bug fixes, including [this reports-page fix](https://github.com/Expensify/App/pull/65201), which earned a $500 bounty.
+- **JSON Schema.** [12 merged pull requests](https://github.com/search?q=author%3AAQIB-NAWAB+org%3Ajson-schema-org+is%3Apr+is%3Amerged&type=pullrequests) across the tour, website, conference, landscape, and community repositories.
+- **[Edorax](https://github.com/devweekends/Edorax).** Maintainer. I review and merge work on the platform and on [Edorax-core](https://github.com/devweekends/Edorax-core).
+- In 2025 I explored the Internet Archive [Zeno crawler](https://github.com/internetarchive/Zeno) as part of GSoC.
 
-## GitHub Stats
+## Tech I use
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AQIB-NAWAB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AQIB-NAWAB&theme=tokyonight&hide_border=true" height="165" alt="GitHub streak" />
-</p>
+TypeScript, JavaScript, Node.js, NestJS, React, Next.js, Python, PostgreSQL, Redis, Kafka, Docker, Kubernetes, AWS, REST, GraphQL, LangChain, LangGraph, MCP, LiveKit, and WebRTC/SIP.
 
-<p align="center">
-  <img src="https://u8views.com/api/v1/github/profiles/115807186/views/day-week-month-total-count.svg" alt="Profile views" />
-</p>
+## How to reach me
 
----
-
-## Featured Projects
-
-| Project | Description |
-|---------|-------------|
-| [P&L Trading Journal](https://github.com/AQIB-NAWAB) | React Native app · **10K+ downloads** · SnapTrade · Kotlin native modules |
-| [QuickStart AI](https://www.npmjs.com/package/@quickstart-ai/chatbot) | RAG chatbot on npm · **1.5K+ weekly downloads** |
-| [Portfolio](https://aqibnawab.vercel.app) | Personal site with analytics & personalized founder outreach |
-
----
-
-## Community
-
-**Trainer @ [Dev Weekends](https://devweekends.com)** — mentoring engineers on full-stack development, DSA, and interview prep in a **20K+** community.
-
----
-
-## Let's Connect
-
-I'm open to full-time roles, contract work, and open-source collaborations.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-aqibnawab.vercel.app-2978B5?style=for-the-badge&logo=googlechrome&logoColor=white)](https://aqibnawab.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-aqib-nawab/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AQIB-NAWAB)
-[![Email](https://img.shields.io/badge/Email-aqibnawab1100@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aqibnawab1100@gmail.com)
-
----
-
-<p align="center">
-  <i>Building production apps that scale — one commit at a time.</i>
-</p>
+[Portfolio](https://aqibnawab.vercel.app/) · [X](https://x.com/1Muhammad_AQIB) · [LinkedIn](https://www.linkedin.com/in/m-aqib-nawab/) · [aqibnawab1100@gmail.com](mailto:aqibnawab1100@gmail.com)
