@@ -30,7 +30,7 @@ Technical lead for the LMS above. The voice agent work brought latency down from
 **[RideNear](https://ridenear.com)**  
 Backend engineering on their ground transport platform, since July 2025.
 
-**P&L Trading Journal** (January 2024 to February 2026)  
+**[P&L Trading Journal](https://pnlapp.co/)** (January 2024 to February 2026)  
 Lead developer. React Native, Kotlin, Node.js, Redis, BullMQ, and SnapTrade sync for 20+ brokerages. 50,000+ downloads on the Play Store. This is past work.
 
 ## Open source
